@@ -27,3 +27,12 @@ Member Id: null
 * [Github](https://github.com/Hawawou)
 
 
+
+
+### Members Social Handles
+Member Id: 1
+* [Facebook](https://web.facebook.com/mbah.unllimited.5)
+* [Twitter](https://twitter.com/meh_ida)
+* [LinkedIn](https://www.linkedin.com/in/meh-mbeh-ida-delphine-a40b21177/)
+* [Github](https://github.com/Idadelveloper),
+
